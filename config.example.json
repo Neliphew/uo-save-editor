@@ -1,0 +1,4 @@
+{
+  "_comment": "把 savedata_dir 改成你自己的存档目录（可选；也可以不建这个文件，或用环境变量 UO_SAVEDATA_DIR）",
+  "savedata_dir": "D:\\Games\\Unicorn Overlord\\data\\user\\savedata\\1\\CUSA36381"
+}

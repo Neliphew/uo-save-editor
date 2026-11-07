@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+backups/
+config.json
+*.log
+.venv/

@@ -1,0 +1,39 @@
+{
+"factor_category_captions": {
+"609": "无",
+"610": "队列·状况",
+"611": "兵种",
+"612": "HP",
+"613": "AP·PP",
+"614": "状态",
+"615": "攻击属性",
+"616": "编成人数",
+"617": "自身状态",
+"618": "自身HP",
+"619": "自身AP·PP",
+"620": "敌方兵种有无",
+"621": "最高能力",
+"622": "最低能力",
+"623": "程序用"
+},
+"skill_categories": {
+"3": "主动技能Lv１",
+"4": "主动技能Lv２",
+"5": "主动技能Lv３",
+"6": "主动技能Lv４",
+"7": "被动技能Lv１",
+"8": "被动技能Lv２",
+"9": "被动技能Lv３",
+"10": "被动技能Lv４"
+},
+"skill_category_enum_names": {
+"3": "EQUIPAI_ACTIVE_SKILL_LV1               ",
+"4": "EQUIPAI_ACTIVE_SKILL_LV2               ",
+"5": "EQUIPAI_ACTIVE_SKILL_LV3               ",
+"6": "EQUIPAI_ACTIVE_SKILL_LV4               ",
+"7": "EQUIPAI_PASSIVE_SKILL_LV1              ",
+"8": "EQUIPAI_PASSIVE_SKILL_LV2              ",
+"9": "EQUIPAI_PASSIVE_SKILL_LV3              ",
+"10": "EQUIPAI_PASSIVE_SKILL_LV4              "
+}
+}
